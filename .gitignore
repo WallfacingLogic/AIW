@@ -10,4 +10,4 @@ wheels/
 .venv
 
 #test
-novel.txt
+*.txt
