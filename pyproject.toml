@@ -1,0 +1,11 @@
+[project]
+name = "aiw"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jieba>=0.42.1",
+    "numpy>=2.4.6",
+    "requests>=2.34.2",
+]
